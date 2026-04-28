@@ -18,6 +18,8 @@ Disk usage increased due to large files.
 Removed unnecessary large files using:
 rm bigfile2 bigfile3
 
+![GUI Screenshot](Screenshoot/Case1.png)
+
 ---
 
 ## Case 2: High CPU Usage
