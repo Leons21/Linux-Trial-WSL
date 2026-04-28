@@ -1,0 +1,4 @@
+scripts/cpu_hog.sh >>
+while true; do :; done
+
+Command to make a infinity loop

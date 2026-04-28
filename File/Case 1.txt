@@ -1,0 +1,5 @@
+fallocate -l 500M bigfile1
+fallocate -l 500M bigfile2
+fallocate -l 500M bigfile3
+
+The command "fallocate -l"  is used to pre-allocate disk space for a file instantly

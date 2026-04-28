@@ -1,0 +1,2 @@
+logs/app.log >>
+"ERROR: database connection failed"
