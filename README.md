@@ -18,7 +18,7 @@ Disk usage increased due to large files.
 Removed unnecessary large files using:
 rm bigfile2 bigfile3
 
-![GUI Screenshot](Screenshoot/Case1.png)
+![Case 1](Screenshoot/Case1.png)
 
 ---
 
@@ -35,6 +35,8 @@ A process consumed high CPU resources.
 Killed the process using:
 kill -9 [PID]
 
+![Case 2](Screenshoot/Case2.png)
+
 ---
 
 ## Case 3: Permission Denied
@@ -49,6 +51,7 @@ File could not be accessed due to restricted permissions.
 Changed permission:
 chmod 644 secret.txt
 
+![Case 3](Screenshoot/Case3.png)
 ---
 
 ## Case 4: Log Monitoring
@@ -62,3 +65,5 @@ Application error found in logs.
 
 ### Solution
 Identified error from log file.
+
+![Case 4](Screenshoot/Case4.png)
